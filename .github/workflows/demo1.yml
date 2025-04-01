@@ -1,9 +1,9 @@
 name: hello_world
-on: push
+'on': push
 jobs:
   my_job:
-  runs_on: ubuntu_latest
-  steps:
-    - name: my_step
-    run: echo "hello _world !"
+    runs_on: ubuntu_latest
+    steps:
+      - name: my_step
+      run: echo "hello _world !"
       
