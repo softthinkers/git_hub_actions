@@ -5,5 +5,5 @@ jobs:
     runs_on: ubuntu_latest
     steps:
       - name: my_step
-      run: echo "hello _world !"
+      run: echo "hello _world!"
       
